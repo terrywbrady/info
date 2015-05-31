@@ -1,3 +1,6 @@
+Terry Brady, Applications Programmer Analyst, Georgetown University Library
+* [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
+
 ###OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
@@ -37,11 +40,18 @@
 ### Past Conferences
 
 #### Code4Lib 2015
-*
+* [Got Git? Getting More Out of Your GitHub Repositories](http://code4lib.org/conference/2015/brady)
+* [Pre-Conference Workshop: Coding Custom Solutions for Every Department in the Library with File Analyzer](http://wiki.code4lib.org/2015_Preconference_Proposals#Coding_Custom_Solutions_for_Every_Department_in_the_Library_with_File_Analyzer)
 
 #### Code4Lib 2014
-*
+* [Pre-Conference Workshop: FileAnalyzer: Rapid Development of File Manipulation Tasks](http://wiki.code4lib.org/2014_preconference_proposals#FileAnalyzer:_Rapid_Development_of_File_Manipulation_Tasks)
 
 #### OpenRepositories 2013
-*
+* [Focus on Your Content, Not on Ingesting Your Content](http://or2013.net/sessions/focus-your-content-not-ingesting-your-content/)
+
+#### OASIS Symposium 2006
+* [A Use-Case Driven Approach to the Development of Reusable Stylesheet Modules](https://www.oasis-open.org/events/symposium/2006/slides/Brady.ppt)
+
+#### Extreme Markup 2004
+* [Representing Software System Information in a Topic Map: A markup-centered approach](http://conferences.idealliance.org/extreme/html/2004/Brady01/EML2004Brady01.html)
 
