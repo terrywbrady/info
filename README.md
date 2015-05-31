@@ -1,4 +1,4 @@
-Terry Brady, Applications Programmer Analyst, Georgetown University Library
+Terry Brady, Applications Programmer Analyst, [Georgetown University Library](http://library.georgetown.edu)
 * [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 
 ###OpenRepositories 2015
