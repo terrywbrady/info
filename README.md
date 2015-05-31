@@ -7,7 +7,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [Slides - TBA](#)
 * [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
 * [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
-* [Pull Request for REST-based Reporting](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
+* [Pull Request for REST-based Reporting](https://github.com/DSpace/DSpace/pull/954)
 * [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
 
 #### OR2015: Integrating the Institutional Repository with the Learning Management System
