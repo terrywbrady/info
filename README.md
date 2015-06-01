@@ -4,7 +4,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ###OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
-* [Slides - TBA](#)
+* [Slides](https://docs.google.com/presentation/d/1VXMlFnhFNx_5E8Jj_3trak2pWffO4KJbb-Q7A6J-THk/pub?start=false&loop=false&delayms=3000)
 * [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
 * [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
 * [Pull Request for REST-based Reporting](https://github.com/DSpace/DSpace/pull/954)
