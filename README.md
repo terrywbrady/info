@@ -26,7 +26,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 #### OR2015 Poster: Packaging DSpace Ingest Folders with FileAnalyzer
 * [Promotional Slide](https://docs.google.com/presentation/d/1X3P1QOPJhjbRJa0BCKT7KWBRbJaolo-ZQcr9Ez_ENoU/pub)
 * [FileAnalyzer - Assembling DSpace Ingest Folders](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Create-Ingest-Folders-for-a-Set-of-Files)
-* [Poster Image - TBA](#)
+* [Poster Image](https://docs.google.com/drawings/d/1hJbSa-A0vi2bvaPx5rfaq2UPaz-_L1Z3_1mo32FwA5o/pub?w=3840&h=3840)
 * [Video - Scanning a File System with the File Analyzer](https://www.youtube.com/watch?v=kVi_k-HdH_4&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=2)
 * [Video - Importing Records with the File Analyzer](https://www.youtube.com/watch?v=1I8n60ZrwHo&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=3)
 
