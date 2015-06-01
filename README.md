@@ -11,7 +11,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
 
 #### OR2015: Integrating the Institutional Repository with the Learning Management System
-* [Slides - TBA](#)
+* [Slides](https://docs.google.com/presentation/d/1N_1PZNwNvNlFd5BSciSXtgRoCzYouD9labdKBJ11wCE/pub?start=false&loop=false&delayms=3000)
 * [DigitalGeorgetown](https://repository.library.georgetown.edu)
 
 #### OR2015: A Page-Turning Document Viewer for DSpace using FlexPaper
