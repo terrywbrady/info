@@ -15,7 +15,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [DigitalGeorgetown](https://repository.library.georgetown.edu)
 
 #### OR2015: A Page-Turning Document Viewer for DSpace using FlexPaper
-* [Slides - TBA](#)
+* [Slides](https://docs.google.com/presentation/d/1-sANqCmadC0xAQPMaLmVTYKqIflCc4TjKlEFMsuUEQc/pub?start=false&loop=false&delayms=3000)
 * [FlexPaper Website](http://flexpaper.devaldi.com/)
 * [FlexPaper Viewer for DSpace](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
 * [DigitalGeorgetown - Dynamic Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559305)
