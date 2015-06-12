@@ -4,6 +4,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ###OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
+* [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=44)
 * [Slides](https://docs.google.com/presentation/d/1VXMlFnhFNx_5E8Jj_3trak2pWffO4KJbb-Q7A6J-THk/pub?start=false&loop=false&delayms=3000)
 * [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
 * [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
@@ -11,10 +12,12 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
 
 #### OR2015: Integrating the Institutional Repository with the Learning Management System
+* [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=64)
 * [Slides](https://docs.google.com/presentation/d/1N_1PZNwNvNlFd5BSciSXtgRoCzYouD9labdKBJ11wCE/pub?start=false&loop=false&delayms=3000)
 * [DigitalGeorgetown](https://repository.library.georgetown.edu)
 
 #### OR2015: A Page-Turning Document Viewer for DSpace using FlexPaper
+* [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=44)
 * [Slides](https://docs.google.com/presentation/d/1-sANqCmadC0xAQPMaLmVTYKqIflCc4TjKlEFMsuUEQc/pub?start=false&loop=false&delayms=3000)
 * [FlexPaper Website](http://flexpaper.devaldi.com/)
 * [FlexPaper Viewer for DSpace](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
