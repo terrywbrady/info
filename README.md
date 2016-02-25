@@ -1,5 +1,6 @@
 Terry Brady, Applications Programmer Analyst, [Georgetown University Library](http://library.georgetown.edu)
 * [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
+* [Georgetown University Libraries Project Summary](http://georgetown-university-libraries.github.io/)
 
 ### Seattle Java User's Group - November 2015
 * [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
