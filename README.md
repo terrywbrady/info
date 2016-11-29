@@ -2,8 +2,19 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 * [Georgetown University Libraries Project Summary](http://georgetown-university-libraries.github.io/)
 
+# Presentation Notes
+
+### Code4Lib BC 2015
+
+#### Building Quick and Dirty Library Tools with Google Apps Script
+* https://github.com/terrywbrady/UsingAppScript
+
+#### A Single Page Web App to Inventory 900,000 Books!
+* https://github.com/Georgetown-University-Libraries/BarcodeInventory
+
 ### Seattle Java User's Group - November 2015
-* [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
+- [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
+ - [Meetup Details](https://www.meetup.com/seajug/events/226437772/)
 
 ###OpenRepositories 2015
 
