@@ -12,7 +12,8 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### A Single Page Web App to Inventory 900,000 Books!
 * https://github.com/Georgetown-University-Libraries/BarcodeInventory
-* [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
+* [GitPitch Slides](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory)
+* [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
 
 ### Seattle Java User's Group - November 2015
 - [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
