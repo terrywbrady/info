@@ -7,12 +7,12 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### Code4Lib BC 2015
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
-* Tutorial: https://github.com/terrywbrady/UsingAppScript
+* Tutorial: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
 * [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRTF6lFyXhN6lfL-0Y_o8fJRf4BLCKSizjvX1jTVGaKdt65no4XUy9MippKhJuVrPs802KBJXrgSxuB/pub?start=false&loop=false&delayms=3000)
 
 #### A Single Page Web App to Inventory 900,000 Books!
+* [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
 * https://github.com/Georgetown-University-Libraries/BarcodeInventory
-* [GitPitch Slides](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory)
 * [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
 
 ### Seattle Java User's Group - November 2015
