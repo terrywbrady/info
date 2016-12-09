@@ -4,7 +4,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
-### Code4Lib BC 2015
+### [Code4Lib BC 2016](https://wiki.code4lib.org/BC)
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
 * Tutorial: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
