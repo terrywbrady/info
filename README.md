@@ -4,6 +4,9 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
+### [SeattleJS Jan 2017](https://www.meetup.com/seattlejs/events/231089467/)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
+
 ### [Code4Lib BC 2016](https://wiki.code4lib.org/BC)
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
