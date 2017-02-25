@@ -4,6 +4,9 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
+### [Code4Lib 2017](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
+* [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/Code4lib?grs=github&t=white)
+
 ### [SeattleJS Jan 2017](https://www.meetup.com/seattlejs/events/231089467/)
 
 #### Building Simple Applications With Google Apps Script
