@@ -1,28 +1,36 @@
 Terry Brady, Applications Programmer Analyst, [Georgetown University Library](http://library.georgetown.edu)
 * [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
+* [![LinkedIn Profile](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png)](https://www.linkedin.com/in/terrywbrady)
+
+# Open Source Projects
 * [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
+* [DSpace](https://github.com/DSpace/DSpace)
 * National Archives and Records Administration Projects
  * [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
  * [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Presentation Notes
 
-### [Code4Lib 2017](http://2017.code4lib.org)
+### Code4Lib 2017
 
-#### [Developing Library Applications in Google Sheets with Google Apps Script](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
+#### Developing Library Applications in Google Sheets with Google Apps Script
 
 * [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/Code4Lib?grs=github&t=white)
+* [Workshop Details](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
 
-### [SeattleJS Jan 2017](https://www.meetup.com/seattlejs/events/231089467/)
+
+### SeattleJS Jan 2017 Meetup
 
 #### Building Simple Applications With Google Apps Script
 * [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
+* [SeattleJS Jan 2017 Meetup Event](https://www.meetup.com/seattlejs/events/231089467/)
 
-### [Code4Lib BC 2016](https://wiki.code4lib.org/BC)
+### Code4Lib BC 2016
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
 * Tutorial: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
 * [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRTF6lFyXhN6lfL-0Y_o8fJRf4BLCKSizjvX1jTVGaKdt65no4XUy9MippKhJuVrPs802KBJXrgSxuB/pub?start=false&loop=false&delayms=3000)
+* [Conference Site](https://wiki.code4lib.org/BC)
 
 #### A Single Page Web App to Inventory 900,000 Books!
 * [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
