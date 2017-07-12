@@ -11,6 +11,10 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
+### Seattle University Web Developers Meetup
+* [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
+* [Seattle University Web Developers Meetup, July 2017](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/)
+
 ### Code4Lib 2017
 
 #### Developing Library Applications in Google Sheets with Google Apps Script
