@@ -11,6 +11,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
+### DSpace North American User Meeting
+* Conference Organizer and Host: 
+  * [Meeting Page](https://www.library.georgetown.edu/node/19724)
+  * [Meeting Schedule](https://gitpitch.com/pitchme/slideshow/github/terrywbrady/dspaceUserMeeting/master?p=schedule#/)
+
 ### Seattle University Web Developers Meetup
 * [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
 * [Seattle University Web Developers Meetup, July 2017](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/)
