@@ -11,14 +11,14 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
-### National Digital Stewardship Enrichment Session at Georgetown University
-* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/10YfSb5iqpXJEeK8XlIsqS7Ay-MgTssaDbfNZAHt9D80/pub)
-* [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
-
 ### DSpace North American User Meeting
 * Conference Organizer and Host: 
   * [Meeting Page](https://www.library.georgetown.edu/node/19724)
   * [Meeting Schedule](https://gitpitch.com/pitchme/slideshow/github/terrywbrady/dspaceUserMeeting/master?p=schedule#/)
+
+### National Digital Stewardship Enrichment Session at Georgetown University
+* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/10YfSb5iqpXJEeK8XlIsqS7Ay-MgTssaDbfNZAHt9D80/pub)
+* [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
 
 ### Seattle University Web Developers Meetup
 * [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
