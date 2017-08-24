@@ -11,7 +11,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
-### DSpace North American User Meeting
+### DSpace North American User Meeting, Georgetown University, Aug 2017
 * Conference Organizer, Host, Presenter 
   * [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
 
