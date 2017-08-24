@@ -13,8 +13,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### DSpace North American User Meeting
 * Conference Organizer and Host: 
-  * [Meeting Page](https://www.library.georgetown.edu/node/19724)
-  * [Meeting Schedule](https://gitpitch.com/pitchme/slideshow/github/terrywbrady/dspaceUserMeeting/master?p=schedule#/)
+  * [Meeting Summary](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
 
 ### National Digital Stewardship Enrichment Session at Georgetown University
 * [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/10YfSb5iqpXJEeK8XlIsqS7Ay-MgTssaDbfNZAHt9D80/pub)
