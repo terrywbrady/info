@@ -12,8 +12,12 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 # Presentation Notes
 
 ### DSpace North American User Meeting, Georgetown University, Aug 2017
-* Conference Organizer, Host, Presenter 
+* Conference Organizer, Host 
   * [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
+* Presenter
+  * [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
+  * [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF)
+  * [Building Customized Collections in DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
 
 ### National Digital Stewardship Enrichment Session at Georgetown University
 * [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/10YfSb5iqpXJEeK8XlIsqS7Ay-MgTssaDbfNZAHt9D80/pub)
