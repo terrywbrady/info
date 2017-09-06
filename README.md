@@ -11,7 +11,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
-### Seattle Java User's Group
+### Seattle Java User's Group, Sep 2017
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
 * Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/iiif-seaJug)
@@ -29,11 +29,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/10YfSb5iqpXJEeK8XlIsqS7Ay-MgTssaDbfNZAHt9D80/pub)
 * [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
 
-### Seattle University Web Developers Meetup
+### Seattle University Web Developers Meetup, Jul 2017
 
 #### Introduction to Google Apps Script 
 * [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
-* [Seattle University Web Developers Meetup, July 2017](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/)
+* Meetup Details: https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/
 
 ### Code4Lib 2017
 
