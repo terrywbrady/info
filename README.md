@@ -3,11 +3,12 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 [![LinkedIn Profile](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png)](https://www.linkedin.com/in/terrywbrady)
 
 # Open Source Projects
-* [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
-* [DSpace](https://github.com/DSpace/DSpace)
+* Georgetown University Library
+  * [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
+  * [DSpace](https://github.com/DSpace/DSpace)
 * National Archives and Records Administration Projects
- * [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
- * [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
+  * [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
+  * [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Presentation Notes
 
