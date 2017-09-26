@@ -11,11 +11,13 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
-### Seattle Java User's Group, Sep 2017
+### Academic Preservation Trust Bagging Webinar, Sep 2017
+* [APT Georgetown Bagging Strategy](https://docs.google.com/presentation/d/e/2PACX-1vQa6qObo617BtslVo6AxutjZ6duHyp0UluFuURw5_sHIHTDP54KH1t8nCcjayn9CAXRNyj-TkwE5Xc5/pub?start=false&loop=false&delayms=3000)
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
 * Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/iiif-seaJug)
 * Meetup Details: https://www.meetup.com/seajug/events/243151373/ 
+* [Presentation Video](https://vimeo.com/235471110)
 
 ### DSpace North American User Meeting, Georgetown University, Aug 2017
 * Conference Organizer, Host 
