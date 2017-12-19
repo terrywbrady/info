@@ -15,6 +15,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### IIIF Community Call, Dec 2017
 
 * [IIIF Manifest Prototyping at Georgetown ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
+  * [TutorialL Generating IIIF Manifests with FileAnalyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/blob/master/iiif/README.md)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
 * [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vQa6qObo617BtslVo6AxutjZ6duHyp0UluFuURw5_sHIHTDP54KH1t8nCcjayn9CAXRNyj-TkwE5Xc5/pub?start=false&loop=false&delayms=3000)
