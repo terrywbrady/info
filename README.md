@@ -75,7 +75,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
  - [Meetup Details](https://www.meetup.com/seajug/events/226437772/)
 
-###OpenRepositories 2015
+### OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
 * [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=44)
