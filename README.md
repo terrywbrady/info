@@ -10,7 +10,22 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   * [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
   * [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
+# Future Presentations
+* Apr 2018: DuraSpace Webinar [Making DSpace Your Own](http://duraspace.org/articles/3372)
+* May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
+  * Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
+* June 2018: [OpenRepositories 2018](http://www.or2018.net/)
+  - Workshop: DSpace 7 REST API (co-presenter)
+  - IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
+  - Developer Workspaces Panel (co-presenter)
+  - Examining Your Repository under the Hood from the Solr Admin Console 
+  - DSpace REST Reporting Tools – A REST Based Application within DSpace 6 
+
 # Presentation Notes
+
+### DSpace Developer Show and Tell - Mar 2018
+* [DSpace Development on Codenvy](https://wiki.duraspace.org/display/DSPACE/Janitor+and+DSpace%2C+DSpace+Development+on+Codenvy+-+Mar+27%2C+2018+at+1500+UTC#JanitorandDSpace,DSpaceDevelopmentonCodenvy-Mar27,2018at1500UTC-DSpaceDevelopmentonCodenvy-)
+* Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
 
 ### IIIF Community Call, Dec 2017
 
