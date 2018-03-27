@@ -26,6 +26,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### DSpace Developer Show and Tell - Mar 2018
 * [DSpace Development on Codenvy](https://wiki.duraspace.org/display/DSPACE/Janitor+and+DSpace%2C+DSpace+Development+on+Codenvy+-+Mar+27%2C+2018+at+1500+UTC#JanitorandDSpace,DSpaceDevelopmentonCodenvy-Mar27,2018at1500UTC-DSpaceDevelopmentonCodenvy-)
 * Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+* Video: [Meeting Recording](https://youtu.be/Thdv7l-yHco?t=19m45s)
 
 ### IIIF Community Call, Dec 2017
 
