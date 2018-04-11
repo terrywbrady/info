@@ -3,18 +3,20 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 [![LinkedIn Profile](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png)](https://www.linkedin.com/in/terrywbrady)
 
 # Open Source Projects
-* Georgetown University Library
-  * [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
-  * [DSpace](https://github.com/DSpace/DSpace)
-* National Archives and Records Administration Projects
-  * [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
-  * [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
+- Georgetown University Library
+  - [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
+  - [DSpace](https://github.com/DSpace/DSpace)
+- National Archives and Records Administration Projects
+  - [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
+  - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Future Presentations
-* Apr 2018: DuraSpace Webinar [Making DSpace Your Own](http://duraspace.org/articles/3372)
-* May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
-  * Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
-* June 2018: [OpenRepositories 2018](http://www.or2018.net/)
+- Apr 2018: DuraSpace Webinar [Making DSpace Your Own](http://duraspace.org/articles/3372)
+  - [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
+- May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
+  - Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
+  - IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
+- June 2018: [OpenRepositories 2018](http://www.or2018.net/)
   - Workshop: DSpace 7 REST API (co-presenter)
   - IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
   - Developer Workspaces Panel (co-presenter)
