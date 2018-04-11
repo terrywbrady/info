@@ -12,7 +12,8 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Future Presentations
 - Apr 2018: DuraSpace Webinar [Making DSpace Your Own](http://duraspace.org/articles/3372)
-  - [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
+  - Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
+  - Video: (to be added)
 - May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
   - Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
   - IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
