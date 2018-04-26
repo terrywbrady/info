@@ -32,6 +32,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### DuraSpace Webinar [Making DSpace Your Own](http://duraspace.org/articles/3372) - Apr 2018
   - Slides and Tutorial Assets: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
+    - [Tutorial Assets](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
   - [Webinar Video](https://www.slideshare.net/DuraSpace/42418-making-dspace-your-own-webinar-recording)
 
 ### DSpace Developer Show and Tell - Mar 2018
