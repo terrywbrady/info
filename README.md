@@ -27,7 +27,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - Examining Your Repository under the Hood from the Solr Admin Console 
     - Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
   - DSpace REST Reporting Tools – A REST Based Application within DSpace 6 
-    - [Tutorial - Slides TBD](https://terrywbrady.github.io/restReportTutorial/intro/)
+    - [Tutorial - Slides TBD](https://terrywbrady.github.io/restReportTutorial/intro)
 
 # Presentation Notes
 
