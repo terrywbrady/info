@@ -14,7 +14,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
   - Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
     - Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
-    - [Tutorial Resources](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/blob/master/iiif/README.md)
+    - [Tutorial Resources](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
   - IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
     - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
 - June 2018: [OpenRepositories 2018](http://www.or2018.net/)
@@ -27,7 +27,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - Examining Your Repository under the Hood from the Solr Admin Console 
     - Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
   - DSpace REST Reporting Tools – A REST Based Application within DSpace 6 
-    - [Tutorial - Slides TBD](https://github.com/terrywbrady/restReportTutorial/blob/master/README.md)
+    - [Tutorial - Slides TBD](https://terrywbrady.github.io/restReportTutorial/demo1/)
 
 # Presentation Notes
 
