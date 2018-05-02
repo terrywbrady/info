@@ -26,16 +26,16 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 #### [Workshop: DSpace 7 REST API (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
 - TBD
 
-#### [IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162)
+#### [IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
 - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
 
 #### [Developer Workspaces Panel (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
 - Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
 
-#### [Examining Your Repository under the Hood from the Solr Admin Console](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109)
+#### [Examining Your Repository under the Hood from the Solr Admin Console](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
 - Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
 
-#### [DSpace REST Reporting Tools – A REST Based Application within DSpace 6](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106)
+#### [DSpace REST Reporting Tools – A REST Based Application within DSpace 6](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (20min)
 - Slides TBD
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
