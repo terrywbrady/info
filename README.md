@@ -11,24 +11,33 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Future Presentations
-- May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
-  - Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
-    - Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
-    - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
-  - IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
-    - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
-- June 2018: [OpenRepositories 2018](http://www.or2018.net/)
-  - Workshop: DSpace 7 REST API (co-presenter)
-    - TBD
-  - IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
-    - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
-  - Developer Workspaces Panel (co-presenter)
-    - Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
-  - Examining Your Repository under the Hood from the Solr Admin Console 
-    - Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
-  - DSpace REST Reporting Tools – A REST Based Application within DSpace 6 
-    - Slides TBD
-    - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
+
+### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
+
+#### [Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)](http://iiif.io/event/2018/washington/program/paper-1/) (20m + 5m Q&A)
+- Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
+- [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+
+#### [IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)](http://iiif.io/event/2018/washington/program/paper-47/) (20m + 5m Q&A)
+  - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
+
+### June 2018: [OpenRepositories 2018](http://www.or2018.net/)
+
+#### [Workshop: DSpace 7 REST API (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285)
+- TBD
+
+#### [IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162)
+- [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
+
+#### [Developer Workspaces Panel (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185)
+- Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+
+#### [Examining Your Repository under the Hood from the Solr Admin Console ](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109)
+- Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
+
+#### [DSpace REST Reporting Tools – A REST Based Application within DSpace 6](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106)
+- Slides TBD
+- [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
 # Presentation Notes
 
