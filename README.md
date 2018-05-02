@@ -14,7 +14,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
   - Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
     - Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
-    - [Tutorial Resources](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+    - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
   - IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
     - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
 - June 2018: [OpenRepositories 2018](http://www.or2018.net/)
@@ -27,13 +27,14 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - Examining Your Repository under the Hood from the Solr Admin Console 
     - Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
   - DSpace REST Reporting Tools – A REST Based Application within DSpace 6 
-    - [Tutorial - Slides TBD](https://terrywbrady.github.io/restReportTutorial/intro)
+    - Slides TBD
+    - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
 # Presentation Notes
 
 ### DuraSpace Webinar [Making DSpace Your Own](http://duraspace.org/articles/3372) - Apr 2018
   - Slides and Tutorial Assets: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
-    - [Tutorial Assets](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
+    - [Tutorial Assets ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
   - [Webinar Video](https://www.slideshare.net/DuraSpace/42418-making-dspace-your-own-webinar-recording)
 
 ### DSpace Developer Show and Tell - Mar 2018
@@ -44,7 +45,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### IIIF Community Call, Dec 2017
 
 * [IIIF Manifest Prototyping at Georgetown ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
-  * [Tutorial: Generating IIIF Manifests with FileAnalyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/blob/master/iiif/README.md)
+  * [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
 * [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vQa6qObo617BtslVo6AxutjZ6duHyp0UluFuURw5_sHIHTDP54KH1t8nCcjayn9CAXRNyj-TkwE5Xc5/pub?start=false&loop=false&delayms=3000)
