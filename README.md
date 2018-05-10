@@ -20,6 +20,10 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### [IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)](http://iiif.io/event/2018/washington/program/paper-47/) (20m + 5m Q&A)
   - [Slides - Work in Progress](https://docs.google.com/presentation/d/1DQXobC-X4_prAgmDbsmYx3RhHA00qm0dvVqHn6dDkVI/edit#slide=id.p)
+  - Useful Resources
+    - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
+    - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
+    - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### June 2018: [OpenRepositories 2018](http://www.or2018.net/)
 
