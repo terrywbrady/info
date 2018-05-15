@@ -11,9 +11,6 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Future Presentations
-- May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
-  - Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
-  - IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
 - June 2018: [OpenRepositories 2018](http://www.or2018.net/)
   - Workshop: DSpace 7 REST API (co-presenter)
   - IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
