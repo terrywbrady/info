@@ -22,11 +22,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
-#### [Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)](http://iiif.io/event/2018/washington/program/paper-1/) (20m + 5m Q&A)
+#### [Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)](http://iiif.io/event/2018/washington/program/paper-1/) 
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
-#### [IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)](http://iiif.io/event/2018/washington/program/paper-47/) (20m + 5m Q&A)
+#### [IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)](http://iiif.io/event/2018/washington/program/paper-47/)
   - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ1e5pOHj4gDWIbTDkRrsxVsY6Kg8dz3qF201WhL_nJmVnn6eSD3MCBQ10Z6WD2ieW8R3fD165oVmmv/pub?start=false&loop=false&delayms=3000)
   - Useful Resources
     - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
