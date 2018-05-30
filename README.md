@@ -10,15 +10,28 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
-# Future Presentations
-- June 2018: [OpenRepositories 2018](http://www.or2018.net/)
-  - Workshop: DSpace 7 REST API (co-presenter)
-  - IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
-  - Developer Workspaces Panel (co-presenter)
-  - Examining Your Repository under the Hood from the Solr Admin Console 
-  - DSpace REST Reporting Tools – A REST Based Application within DSpace 6 
-
 # Presentation Notes
+### June 2018: [OpenRepositories 2018](http://www.or2018.net/)
+
+#### [Workshop: DSpace 7 REST API (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
+- Slides: TBD
+- Exercises: https://dspace-labs.github.io/DSpace7RestTutorial/
+
+#### [IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
+- [Slides - Work in Progress](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
+
+#### [Developer Workspaces Panel (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
+- Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+
+#### [Examining Your Repository under the Hood from the Solr Admin Console](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
+- Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
+
+#### [DSpace REST Reporting Tools – A REST Based Application within DSpace 6](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
+- Slides TBD
+- [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
+
+#### Poster: [Common Workflow for Ingest into our Digital Preservation System](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
+
 
 ### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
