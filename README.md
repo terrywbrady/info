@@ -28,7 +28,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
 - [Slides - Work in Progress: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
-- [Absstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
 - Slides TBD
@@ -42,17 +42,17 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
-- [Abstract](http://iiif.io/event/2018/washington/program/paper-1/) 
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+- [Abstract](http://iiif.io/event/2018/washington/program/paper-1/) 
 
 #### IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
-- [Abstract](http://iiif.io/event/2018/washington/program/paper-47/)
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ1e5pOHj4gDWIbTDkRrsxVsY6Kg8dz3qF201WhL_nJmVnn6eSD3MCBQ10Z6WD2ieW8R3fD165oVmmv/pub?start=false&loop=false&delayms=3000)
 - Useful Resources
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
   - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+- [Abstract](http://iiif.io/event/2018/washington/program/paper-47/)
 
 ### DuraSpace Webinar - Making DSpace Your Own - Apr 2018
   - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
