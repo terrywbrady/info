@@ -14,30 +14,30 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### June 2018: [OpenRepositories 2018](http://www.or2018.net/)
 
 #### Workshop: DSpace 7 REST API (co-presenter)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
 - Slides: TBD
 - [Workshop Exercises](https://dspace-labs.github.io/DSpace7RestTutorial)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
 
 #### IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
 - [Slides - Work in Progress](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
 
 #### Developer Workspaces Panel (co-presenter)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
-- [Absstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
 - [Slides - Work in Progress: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
+- [Absstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
 - Slides TBD
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
 - [Poster Image](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
-- [Detail Slide](https://bit.ly/gu-aptrust)
+- [Detailed Information](https://bit.ly/gu-aptrust)
 
 ### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
