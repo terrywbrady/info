@@ -11,7 +11,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Presentation Notes
-### June 2018: [OpenRepositories 2018](http://www.or2018.net/)
+### [OpenRepositories 2018](http://www.or2018.net/)
 
 #### Workshop: DSpace 7 REST API (co-presenter)
 - Slides: TBD
@@ -39,7 +39,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Poster Image](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
 - [Detailed Information](https://bit.ly/gu-aptrust)
 
-### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
+### [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
