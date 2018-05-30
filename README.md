@@ -13,38 +13,46 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 # Presentation Notes
 ### June 2018: [OpenRepositories 2018](http://www.or2018.net/)
 
-#### [Workshop: DSpace 7 REST API (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
+#### Workshop: DSpace 7 REST API (co-presenter)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
 - Slides: TBD
-- Exercises: https://dspace-labs.github.io/DSpace7RestTutorial/
+- [Workshop Exercises](https://dspace-labs.github.io/DSpace7RestTutorial)
 
-#### [IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
+#### IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
 - [Slides - Work in Progress](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
 
-#### [Developer Workspaces Panel (co-presenter)](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
-- Slides: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+#### Developer Workspaces Panel (co-presenter)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
+- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
 
-#### [Examining Your Repository under the Hood from the Solr Admin Console](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
-- Slides - Work in Progress: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
+#### Examining Your Repository under the Hood from the Solr Admin Console
+- [Absstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
+- [Slides - Work in Progress: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
 
-#### [DSpace REST Reporting Tools – A REST Based Application within DSpace 6](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
+#### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
 - Slides TBD
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
-#### Poster: [Common Workflow for Ingest into our Digital Preservation System](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
-
+#### Poster: Common Workflow for Ingest into our Digital Preservation System
+- [Poster Image](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
+- [Detail Slide](https://bit.ly/gu-aptrust)
 
 ### May 2018: [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
-#### [Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)](http://iiif.io/event/2018/washington/program/paper-1/) 
+#### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
+- [Abstract](http://iiif.io/event/2018/washington/program/paper-1/) 
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
-#### [IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)](http://iiif.io/event/2018/washington/program/paper-47/)
-  - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ1e5pOHj4gDWIbTDkRrsxVsY6Kg8dz3qF201WhL_nJmVnn6eSD3MCBQ10Z6WD2ieW8R3fD165oVmmv/pub?start=false&loop=false&delayms=3000)
-  - Useful Resources
-    - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
-    - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
-    - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+#### IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
+- [Abstract](http://iiif.io/event/2018/washington/program/paper-47/)
+- [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ1e5pOHj4gDWIbTDkRrsxVsY6Kg8dz3qF201WhL_nJmVnn6eSD3MCBQ10Z6WD2ieW8R3fD165oVmmv/pub?start=false&loop=false&delayms=3000)
+- Useful Resources
+  - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
+  - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
+  - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### DuraSpace Webinar - Making DSpace Your Own - Apr 2018
   - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
