@@ -23,7 +23,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
 
 #### Developer Workspaces Panel (co-presenter)
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+- [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRPmZgRiHlgzypnKE-FKIu5DzPVAsDJHxBsDnQLQFieKt3fJTXAOeBmpuMc-aeMyLXTCQkgyjts7FLe/pub?start=false&loop=false&delayms=3000)
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
