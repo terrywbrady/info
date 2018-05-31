@@ -27,11 +27,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
-- [Slides - Work in Progress: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
+- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
-- Slides TBD
+- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/) 
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
 
