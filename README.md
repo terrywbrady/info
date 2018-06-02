@@ -19,7 +19,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
 
 #### IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
-- [Slides - Work in Progress](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
 - Useful Resources
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
