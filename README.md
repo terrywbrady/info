@@ -14,7 +14,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### [OpenRepositories 2018](http://www.or2018.net/)
 
 #### Workshop: DSpace 7 REST API (co-presenter)
-- Slides: TBD
+- [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vSpXN4Rxi0qpnYalcNltvEtppoq8tUTz1B6fUt2Umu4aV08LcKp5CRv7gucQNuY2lKCoymO4a8u4BNA/pub?start=false&loop=false&delayms=3000)
 - [Workshop Exercises](https://dspace-labs.github.io/DSpace7RestTutorial)
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) (3hr)
 
