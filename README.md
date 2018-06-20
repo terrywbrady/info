@@ -24,20 +24,20 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
   - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) (30min)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) 
 
 #### Developer Workspaces Panel (co-presenter)
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRPmZgRiHlgzypnKE-FKIu5DzPVAsDJHxBsDnQLQFieKt3fJTXAOeBmpuMc-aeMyLXTCQkgyjts7FLe/pub?start=false&loop=false&delayms=3000)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) (45min)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) 
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) (20min)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) 
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/) 
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) (30min - extra time allocated)
+- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) 
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
 - [Poster Image](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
