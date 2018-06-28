@@ -16,6 +16,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 #### Workshop: DSpace 7 REST API (co-presenter)
 - [Google Slides](https://tinyurl.com/or2018-dspace-rest)
 - [Workshop Exercises](https://dspace-labs.github.io/DSpace7RestTutorial)
+- [Code Walkthrough Notes](https://dspace-labs.github.io/DSpace7RestTutorial/walkthrough/intro)
 - [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) 
 
 #### IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
