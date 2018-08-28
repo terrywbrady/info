@@ -12,6 +12,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
 # Presentation Notes
+
+### DSpace Developer Show and Tell - Aug 2018
+- [Running DSpace on Docker](https://wiki.duraspace.org/display/DSPACE/Dev+Show+and+Tell+-+Aug+28%2C+2018+-+1500UTC+-+DSpace+On+DockerHub)
+- [DSpace Docker Tutorial](https://dspace-labs.github.io/DSpace-Docker-Images/)
+
 ### [OpenRepositories 2018](http://www.or2018.net/)
 
 #### Workshop: DSpace 7 REST API (co-presenter)
