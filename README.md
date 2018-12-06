@@ -7,6 +7,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
   - [DSpace](https://github.com/DSpace/DSpace)
   - [DSpace Docker Images](https://dspace-labs.github.io/DSpace-Docker-Images/)
+  - [DSpace Docker and Cloud Deployment Goals](https://wiki.duraspace.org/display/~terrywbrady/DSpace+Docker+and+Cloud+Deployment+Goals)
 - National Archives and Records Administration Projects
   - [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
