@@ -14,6 +14,10 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
+### DuraSpace Community Webinar - Mar 2019
+- [DSpace Docker for Repository Managers - Running Any Version of DSpace from Your Desktop](https://gitpitch.com/DSpace-Labs/DSpace-Docker-Images/webinar)
+- http://bit.ly/docker4rm
+
 ### DSpace Developer Show and Tell - Aug 2018
 - [Running DSpace on Docker - Meeting Recording](https://wiki.duraspace.org/display/DSPACE/Dev+Show+and+Tell+-+Aug+28%2C+2018+-+1500UTC+-+DSpace+On+DockerHub)
 - [DSpace Docker Tutorial](https://dspace-labs.github.io/DSpace-Docker-Images/)
