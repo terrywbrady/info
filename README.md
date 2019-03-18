@@ -14,6 +14,10 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 # Presentation Notes
 
+### ArchivesSpace Online Forum
+- [Syncronizing Digital Objects Between ArchivesSpace and DSpace](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
+  - http://bit.ly/as2dspace
+
 ### DuraSpace Community Webinar - Mar 2019
 - [DSpace Docker for Repository Managers - Running Any Version of DSpace from Your Desktop](https://gitpitch.com/DSpace-Labs/DSpace-Docker-Images/webinar)
   - [Webinar Video](https://duraspace.zoom.us/recording/share/kCDyG4ux5qVbvsYkau2h7_J3eb0nfvlWP9umNwmvVjCwIumekTziMw)
