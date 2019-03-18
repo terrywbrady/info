@@ -16,6 +16,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### ArchivesSpace Online Forum - Mar 2019
 - [Linking ArchivesSpace Hierarchy to DSpace Digital Objects](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
+  - [Panel Overview](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/824115242/Session+Descriptions+and+Speaker+Biographies#SessionDescriptionsandSpeakerBiographies-Integrations)
   - http://bit.ly/as2dspace
 
 ### DuraSpace Community Webinar - Mar 2019
