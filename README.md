@@ -12,6 +12,14 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [File Analyzer and Metadata Harvester](https://github.com/usnationalarchives/File-Analyzer)
   - [Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer)
 
+# Upcoming Presentations
+
+### [OpenRepositories 2019](http://www.or2019.net/) - June 2019
+
+#### Workshop: Docker for DSpace – Lowering the Barrier of Entry for New Contributors (co-presenter)
+#### Linking ArchivesSpace Hierarchy to DSpace Digital Objects
+#### DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
+
 # Presentation Notes
 
 ### ArchivesSpace Online Forum - Mar 2019
