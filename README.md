@@ -17,7 +17,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### [OpenRepositories 2019](http://www.or2019.net/) - June 2019
 
 - Workshop: Docker for DSpace – Lowering the Barrier of Entry for New Contributors (co-presenter)
-- Linking ArchivesSpace Hierarchy to DSpace Digital Objects
+- Linking ArchivesSpace Hierarchy to DSpace Digital Objects 
 - DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
 
 # Presentation Notes
