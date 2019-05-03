@@ -100,7 +100,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   * [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
-* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vQa6qObo617BtslVo6AxutjZ6duHyp0UluFuURw5_sHIHTDP54KH1t8nCcjayn9CAXRNyj-TkwE5Xc5/pub?start=false&loop=false&delayms=3000)
+* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vRlSwcWwusCIro4shrj11yfyVttCvOkYBAMtCBHBF9ujIdRR-Xa0Um3GGRkvil8ubwjzpVbfWbSXdMT/pub?start=false&loop=false&delayms=3000)
 
 ### Seattle Java User's Group Meetup, Sep 2017
 
@@ -118,7 +118,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   * [Building Customized Collections in DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
 
 ### National Digital Stewardship Enrichment Session at Georgetown University
-* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/10YfSb5iqpXJEeK8XlIsqS7Ay-MgTssaDbfNZAHt9D80/pub)
+* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vSyz4WwvuD2FaYCLYUsbGYR5HqY6IOonzuCEAB92SMsNtzTHR1KgX9DpKEH5-qh7wd5CsRzqonafI6p/pub?start=false&loop=false&delayms=3000)
 * [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
 
 ### Seattle University Web Developers Meetup, Jul 2017
