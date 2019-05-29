@@ -21,9 +21,9 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Monday Jun 10: 1:30pm - 5:00pm](https://www.conftool.net/or2019/index.php?page=browseSessions&form_session=420&presentations=show)
 - Linking ArchivesSpace Hierarchy to DSpace Digital Objects 
   - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vS2A1lDezk1q6cXoobnZhL3iefqLmN5-VUxo1dcMGWUlt362FvYpHb2y_gY_6YdAtYmPXbRTrzNfdlX/pub?start=false&loop=false&delayms=3000)
-  - [Wednesday Jun 12: 9:00am - 10:30am](https://www.conftool.net/or2019/index.php?page=browseSessions&form_session=356&presentations=show)
-- DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
   - [Wednesday Jun 12: 3:30pm - 5:00am](https://www.conftool.net/or2019/index.php?page=browseSessions&form_session=367&presentations=show)
+- DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
+  - [Wednesday Jun 12: 9:00am - 10:30am](https://www.conftool.net/or2019/index.php?page=browseSessions&form_session=356&presentations=show)
 
 # Presentation Notes
 
