@@ -47,7 +47,6 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Google Slides](https://tinyurl.com/or2018-dspace-rest)
 - [Workshop Exercises](https://dspace-labs.github.io/DSpace7RestTutorial)
 - [Code Walkthrough Notes](https://dspace-labs.github.io/DSpace7RestTutorial/walkthrough/intro)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=285) 
 
 #### IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
@@ -55,20 +54,16 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
   - [Generating IIIF Manifests with File Analyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=242#paperID162) 
 
 #### Developer Workspaces Panel (co-presenter)
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRPmZgRiHlgzypnKE-FKIu5DzPVAsDJHxBsDnQLQFieKt3fJTXAOeBmpuMc-aeMyLXTCQkgyjts7FLe/pub?start=false&loop=false&delayms=3000)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=321#paperID185) 
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=292#paperID109) 
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/) 
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
-- [Abstract](https://www.conftool.net/or2018/index.php?page=browseSessions&form_session=233#paperID106) 
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
 - [Poster Image](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
@@ -165,7 +160,6 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
-* [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=44)
 * [Slides](https://docs.google.com/presentation/d/1VXMlFnhFNx_5E8Jj_3trak2pWffO4KJbb-Q7A6J-THk/pub?start=false&loop=false&delayms=3000)
 * [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
 * [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
@@ -173,12 +167,10 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 * [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
 
 #### OR2015: Integrating the Institutional Repository with the Learning Management System
-* [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=64)
 * [Slides](https://docs.google.com/presentation/d/1N_1PZNwNvNlFd5BSciSXtgRoCzYouD9labdKBJ11wCE/pub?start=false&loop=false&delayms=3000)
 * [DigitalGeorgetown](https://repository.library.georgetown.edu)
 
 #### OR2015: A Page-Turning Document Viewer for DSpace using FlexPaper
-* [Conference Program Page](https://www.conftool.com/or2015/index.php?page=browseSessions&form_session=44)
 * [Slides](https://docs.google.com/presentation/d/1-sANqCmadC0xAQPMaLmVTYKqIflCc4TjKlEFMsuUEQc/pub?start=false&loop=false&delayms=3000)
 * [FlexPaper Website](http://flexpaper.devaldi.com/)
 * [FlexPaper Viewer for DSpace](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
