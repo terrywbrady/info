@@ -24,7 +24,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - Linking ArchivesSpace Hierarchy to DSpace Digital Objects 
   - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vS2A1lDezk1q6cXoobnZhL3iefqLmN5-VUxo1dcMGWUlt362FvYpHb2y_gY_6YdAtYmPXbRTrzNfdlX/pub?start=false&loop=false&delayms=3000)
 - DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
-  - [Presentation Slides](https://docs.google.com/presentation/d/1NAjLAoxbll56O8fu8U0YOQTN7Whza2RTAqyzQrgSaR8/edit?usp=sharing)
+  - [Presentation Slides](https://www.slideshare.net/4Science/dspace-7-creating-highquality-software-update-to-development-practices)
 
 ### ArchivesSpace Online Forum - Mar 2019
 - [Linking ArchivesSpace Hierarchy to DSpace Digital Objects](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
