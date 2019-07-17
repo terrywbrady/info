@@ -26,6 +26,9 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
   - [Presentation Slides](https://www.slideshare.net/4Science/dspace-7-creating-highquality-software-update-to-development-practices)
 
+### Class Project for _Cloud Application Development on Amazon Web Services_ - June 2019
+- [DSpace Launcher Dashboard - Run a DSpace Pull Request on AWS](https://terrywbrady.github.io/CldAws230/)
+
 ### ArchivesSpace Online Forum - Mar 2019
 - [Linking ArchivesSpace Hierarchy to DSpace Digital Objects](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
   - [Panel Overview](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/824115242/Session+Descriptions+and+Speaker+Biographies#SessionDescriptionsandSpeakerBiographies-Integrations)
