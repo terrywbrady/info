@@ -28,7 +28,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### Class Project for _Cloud Application Development on Amazon Web Services_ - June 2019
 - [DSpace Launcher Dashboard - Run a DSpace Pull Request on AWS](https://terrywbrady.github.io/CldAws230/) Online Presentation
-- [Presentation Export](presentation/PITCHME.pptx)
+- [Presentation Export](https://github.com/terrywbrady/CldAws230/blob/master/presentation/PITCHME.pptx?raw=true)
 
 ### ArchivesSpace Online Forum - Mar 2019
 - [Linking ArchivesSpace Hierarchy to DSpace Digital Objects](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows)
