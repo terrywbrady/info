@@ -63,6 +63,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### Developer Workspaces Panel (co-presenter)
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRPmZgRiHlgzypnKE-FKIu5DzPVAsDJHxBsDnQLQFieKt3fJTXAOeBmpuMc-aeMyLXTCQkgyjts7FLe/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2018DevWorkspace.pptx)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/)
