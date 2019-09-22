@@ -21,7 +21,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 - Workshop: Docker for DSpace – Lowering the Barrier of Entry for New Contributors (co-presenter)
   - [Workshop Home Page](https://dspace-labs.github.io/DSpace-Docker-Images/documentation/workshop/info.html)
-- Linking ArchivesSpace Hierarchy to DSpace Digital Objects 
+- Linking ArchivesSpace Hierarchy to DSpace Digital Objects
   - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vS2A1lDezk1q6cXoobnZhL3iefqLmN5-VUxo1dcMGWUlt362FvYpHb2y_gY_6YdAtYmPXbRTrzNfdlX/pub?start=false&loop=false&delayms=3000)
   - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/OR2019-ASpace.pptx)
 - DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
@@ -55,6 +55,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### IIIF and the manifest: Integrating IIIF images and manifests within existing Repositories (co-presenter)
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRf3z1VvS6MzXaH8VNd5MHPwAzCZN2lF4aW11j1zrSII5XlO8jgVfDOmBlIniC1ZXmuvxP28PB8AK4i/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/IIIFRepo-OR2018.pptx)
 - Useful Resources
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
@@ -64,10 +65,10 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRPmZgRiHlgzypnKE-FKIu5DzPVAsDJHxBsDnQLQFieKt3fJTXAOeBmpuMc-aeMyLXTCQkgyjts7FLe/pub?start=false&loop=false&delayms=3000)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/) 
+- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/) 
+- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
@@ -79,10 +80,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
-- [Abstract](http://iiif.io/event/2018/washington/program/paper-1/) 
+- [Abstract](http://iiif.io/event/2018/washington/program/paper-1/)
 
 #### IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
 - [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ1e5pOHj4gDWIbTDkRrsxVsY6Kg8dz3qF201WhL_nJmVnn6eSD3MCBQ10Z6WD2ieW8R3fD165oVmmv/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/IIIFRepo.pptx)
 - Useful Resources
   - [IIIF Viewer integrated into DigitalGeorgetown](https://repository.library.georgetown.edu/handle/10822/1044538#?m=7)
   - [Integrating UniversalViewer into DSpace Mirage2 Theme](https://gist.github.com/terrywbrady/29006fadfd94fb0e47ba29b9d29cd738)
@@ -111,11 +113,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
 * [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/iiif-seaJug)
-* Meetup Details: https://www.meetup.com/seajug/events/243151373/ 
+* Meetup Details: https://www.meetup.com/seajug/events/243151373/
 * [Presentation Video](https://vimeo.com/235471110)
 
 ### DSpace North American User Meeting, Georgetown University, Aug 2017
-* Conference Organizer, Host 
+* Conference Organizer, Host
   * [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
 * Presenter
   * [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
@@ -128,7 +130,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### Seattle University Web Developers Meetup, Jul 2017
 
-#### Introduction to Google Apps Script 
+#### Introduction to Google Apps Script
 * [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
 * Meetup Details: https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/
 
@@ -215,4 +217,3 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### Extreme Markup 2004
 * [Representing Software System Information in a Topic Map: A markup-centered approach](http://conferences.idealliance.org/extreme/html/2004/Brady01/EML2004Brady01.html)
-
