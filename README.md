@@ -66,11 +66,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2018DevWorkspace.pptx)
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/)
+- [Online Slides](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/)
   - [Exported Slides](https://github.com/terrywbrady/TutorialSolrAdmin/raw/master/PITCHME.pptx)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/)
+- [Online Slides](https://gitpitch.com/terrywbrady/restReportTutorial/)
   - [Exported Slides](https://github.com/terrywbrady/restReportTutorial/raw/master/PITCHME.pptx)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
@@ -81,7 +81,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### [2018 IIIF Conference](http://iiif.io/event/2018/washington/)
 
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
+- [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
   - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/raw/master/PITCHME.pptx)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 - [Abstract](http://iiif.io/event/2018/washington/program/paper-1/)
@@ -96,20 +96,20 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 - [Abstract](http://iiif.io/event/2018/washington/program/paper-47/)
 
 ### DuraSpace Webinar - Making DSpace Your Own - Apr 2018
-  - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
+  - [Online Slides](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
     - [Exported Slides](https://github.com/DSpace-Labs/DSpace-rel-demo/raw/webinar/PITCHME.pptx)
     - [Tutorial Assets](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
   - [Webinar Video](https://www.slideshare.net/DuraSpace/42418-making-dspace-your-own-webinar-recording)
 
 ### DSpace Developer Show and Tell - Mar 2018
 - [DSpace Development on Codenvy](https://wiki.duraspace.org/display/DSPACE/Janitor+and+DSpace%2C+DSpace+Development+on+Codenvy+-+Mar+27%2C+2018+at+1500+UTC#JanitorandDSpace,DSpaceDevelopmentonCodenvy-Mar27,2018at1500UTC-DSpaceDevelopmentonCodenvy-)
-- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+- [Online Slides](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
   - [Exported Slides](https://github.com/DSpace-Labs/DSpace-codenvy/raw/master/PITCHME.pptx)
 - Video: [Meeting Recording](https://youtu.be/Thdv7l-yHco?t=19m45s)
 
 ### IIIF Community Call, Dec 2017
 
-- [IIIF Manifest Prototyping at Georgetown ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
+- [IIIF Manifest Prototyping at Georgetown](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
   - [Exported Slides](https://github.com/Georgetown-University-Libraries/testManifests/raw/master/PITCHME.pptx)
   - [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
@@ -119,7 +119,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### Seattle Java User's Group Meetup, Sep 2017
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
-* [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/iiif-seaJug)
+* [Online Slides](https://gitpitch.com/terrywbrady/iiif-seaJug)
 * Meetup Details: https://www.meetup.com/seajug/events/243151373/
 * [Presentation Video](https://vimeo.com/235471110)
 
@@ -138,32 +138,32 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### Seattle University Web Developers Meetup, Jul 2017
 
 #### Introduction to Google Apps Script
-* [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
+* [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
 * Meetup Details: https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/
 
 ### Code4Lib 2017
 
 #### Developing Library Applications in Google Sheets with Google Apps Script
 
-* [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/Code4Lib?grs=github&t=white)
+* [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/Code4Lib?grs=github&t=white)
 * [Workshop Details](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
 
 
 ### SeattleJS Jan 2017 Meetup
 
 #### Building Simple Applications With Google Apps Script
-* [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
+* [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
 * [SeattleJS Jan 2017 Meetup Event](https://www.meetup.com/seattlejs/events/231089467/)
 
 ### Code4Lib BC 2016
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
-* Tutorial: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
+* [Tutorial Slides](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
 * [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRTF6lFyXhN6lfL-0Y_o8fJRf4BLCKSizjvX1jTVGaKdt65no4XUy9MippKhJuVrPs802KBJXrgSxuB/pub?start=false&loop=false&delayms=3000)
 * [Conference Site](https://wiki.code4lib.org/BC)
 
 #### A Single Page Web App to Inventory 900,000 Books!
-* [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
+* [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
 * https://github.com/Georgetown-University-Libraries/BarcodeInventory
 * [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
 
