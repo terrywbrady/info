@@ -67,9 +67,11 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### Examining Your Repository under the Hood from the Solr Admin Console
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/TutorialSolrAdmin#/)
+  - [Exported Slides](https://github.com/terrywbrady/TutorialSolrAdmin/raw/master/PITCHME.pptx)
 
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/restReportTutorial/)
+  - [Exported Slides](https://github.com/terrywbrady/restReportTutorial/raw/master/PITCHME.pptx)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
@@ -80,6 +82,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
 - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
+  - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/raw/master/PITCHME.pptx)
 - [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 - [Abstract](http://iiif.io/event/2018/washington/program/paper-1/)
 
@@ -94,18 +97,21 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### DuraSpace Webinar - Making DSpace Your Own - Apr 2018
   - [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-rel-demo/webinar?grs=github)
+    - [Exported Slides](https://github.com/DSpace-Labs/DSpace-rel-demo/raw/webinar/PITCHME.pptx)
     - [Tutorial Assets](https://github.com/DSpace-Labs/DSpace-rel-demo/blob/master/README.md#apr-2018-making-dspace-6-your-own-webinar)
   - [Webinar Video](https://www.slideshare.net/DuraSpace/42418-making-dspace-your-own-webinar-recording)
 
 ### DSpace Developer Show and Tell - Mar 2018
-* [DSpace Development on Codenvy](https://wiki.duraspace.org/display/DSPACE/Janitor+and+DSpace%2C+DSpace+Development+on+Codenvy+-+Mar+27%2C+2018+at+1500+UTC#JanitorandDSpace,DSpaceDevelopmentonCodenvy-Mar27,2018at1500UTC-DSpaceDevelopmentonCodenvy-)
-* [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
-* Video: [Meeting Recording](https://youtu.be/Thdv7l-yHco?t=19m45s)
+- [DSpace Development on Codenvy](https://wiki.duraspace.org/display/DSPACE/Janitor+and+DSpace%2C+DSpace+Development+on+Codenvy+-+Mar+27%2C+2018+at+1500+UTC#JanitorandDSpace,DSpaceDevelopmentonCodenvy-Mar27,2018at1500UTC-DSpaceDevelopmentonCodenvy-)
+- [Slides: ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/DSpace-Labs/DSpace-codenvy?grs=github)
+  - [Exported Slides](https://github.com/DSpace-Labs/DSpace-codenvy/raw/master/PITCHME.pptx)
+- Video: [Meeting Recording](https://youtu.be/Thdv7l-yHco?t=19m45s)
 
 ### IIIF Community Call, Dec 2017
 
-* [IIIF Manifest Prototyping at Georgetown ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
-  * [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+- [IIIF Manifest Prototyping at Georgetown ![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
+  - [Exported Slides](https://github.com/Georgetown-University-Libraries/testManifests/raw/master/PITCHME.pptx)
+  - [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
 * [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vRlSwcWwusCIro4shrj11yfyVttCvOkYBAMtCBHBF9ujIdRR-Xa0Um3GGRkvil8ubwjzpVbfWbSXdMT/pub?start=false&loop=false&delayms=3000)
