@@ -23,6 +23,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Workshop Home Page](https://dspace-labs.github.io/DSpace-Docker-Images/documentation/workshop/info.html)
 - Linking ArchivesSpace Hierarchy to DSpace Digital Objects 
   - [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vS2A1lDezk1q6cXoobnZhL3iefqLmN5-VUxo1dcMGWUlt362FvYpHb2y_gY_6YdAtYmPXbRTrzNfdlX/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/OR2019-ASpace.pptx)
 - DSpace 7 - Creating High-Quality Software: Update to Development Practices (co-presenter)
   - [Presentation Slides](https://www.slideshare.net/4Science/dspace-7-creating-highquality-software-update-to-development-practices)
 
