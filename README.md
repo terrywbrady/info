@@ -1,6 +1,6 @@
 Terry Brady, Applications Programmer Analyst, [Georgetown University Library](http://library.georgetown.edu)
 
-[![LinkedIn Profile](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png)](https://www.linkedin.com/in/terrywbrady)
+- [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 
 # Open Source Projects
 - Georgetown University Library
@@ -72,7 +72,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 #### DSpace REST Reporting Tools – A REST Based Application within DSpace 6
 - [Online Slides](https://gitpitch.com/terrywbrady/restReportTutorial/)
   - [Exported Slides](https://github.com/terrywbrady/restReportTutorial/raw/master/PITCHME.pptx)
-- [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](https://terrywbrady.github.io/restReportTutorial/intro)
+- [Tutorial Resources](https://terrywbrady.github.io/restReportTutorial/intro)
 
 #### Poster: Common Workflow for Ingest into our Digital Preservation System
 - [Poster Image](https://docs.google.com/drawings/d/e/2PACX-1vRAD84oemx4SZAtX9aVm1nOnVu5x9QpyY_90S7vudZqWje19VgSqe-7rr-N9UtCpzBqpwZJRGnH_QrS/pub?w=4608&h=3456)
@@ -83,7 +83,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 #### Generating IIIF Manifests from Repository Metadata and Archival Metadata (EAD)
 - [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/File-Analyzer-Test-Data?grs=github)
   - [Exported Slides](https://github.com/Georgetown-University-Libraries/File-Analyzer-Test-Data/raw/master/PITCHME.pptx)
-- [Tutorial Resources ![](https://img.shields.io/badge/tutorial-try%20it%20out-orange.svg)](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
+- [Tutorial Resources](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 - [Abstract](http://iiif.io/event/2018/washington/program/paper-1/)
 
 #### IIIF and Repositories: Managing Image Content and Integration Workflows (co-presenter)
