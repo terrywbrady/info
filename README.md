@@ -115,6 +115,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
 - [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vRlSwcWwusCIro4shrj11yfyVttCvOkYBAMtCBHBF9ujIdRR-Xa0Um3GGRkvil8ubwjzpVbfWbSXdMT/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/APT_Georgetown_Bagging_Strategy.pptx)
 
 ### Seattle Java User's Group Meetup, Sep 2017
 
@@ -138,6 +139,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### National Digital Stewardship Enrichment Session at Georgetown University
 - [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vSyz4WwvuD2FaYCLYUsbGYR5HqY6IOonzuCEAB92SMsNtzTHR1KgX9DpKEH5-qh7wd5CsRzqonafI6p/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/NDSR_APT_Meeting.pptx)
 - [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
 
 ### Seattle University Web Developers Meetup, Jul 2017
@@ -179,34 +181,30 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 ### Seattle Java User's Group - November 2015
 - [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/DSpace_Overview_for_Seattle_Java_Users_Group.pptx)
  - [Meetup Details](https://www.meetup.com/seajug/events/226437772/)
 
 ### OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
 - [Slides](https://docs.google.com/presentation/d/1VXMlFnhFNx_5E8Jj_3trak2pWffO4KJbb-Q7A6J-THk/pub?start=false&loop=false&delayms=3000)
-- [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
-- [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
-- [Pull Request for REST-based Reporting](https://github.com/DSpace/DSpace/pull/954)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2015_Driving_Change_with_Interactive_Admin_Tools_for_DSpace.pptx)
 - [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
 
 #### OR2015: Integrating the Institutional Repository with the Learning Management System
 - [Slides](https://docs.google.com/presentation/d/1N_1PZNwNvNlFd5BSciSXtgRoCzYouD9labdKBJ11wCE/pub?start=false&loop=false&delayms=3000)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2015_Integrating_the_Institutional_Repository_with_the_Learning_Management_System.pptx)
 - [DigitalGeorgetown](https://repository.library.georgetown.edu)
 
 #### OR2015: A Page-Turning Document Viewer for DSpace using FlexPaper
 - [Slides](https://docs.google.com/presentation/d/1-sANqCmadC0xAQPMaLmVTYKqIflCc4TjKlEFMsuUEQc/pub?start=false&loop=false&delayms=3000)
-- [FlexPaper Website](http://flexpaper.devaldi.com/)
-- [FlexPaper Viewer for DSpace](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
-- [DigitalGeorgetown - Dynamic Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559305)
-- [DigitalGeorgetown - Pre-compiled Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559458)
-- [DigitalGeorgetown - Flash Viewer for Mixed Page Orientation Document](https://repository.library.georgetown.edu/handle/10822/557062)
-- [DigitalGeorgetown - Book Viewer Disabled Due to Inconsistent Page Sizes](https://repository.library.georgetown.edu/handle/10822/556074)
+- [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2015_A_Page-Turning_Document_Viewer_for_DSpace_using_FlexPaper.pptx)
 
 #### OR2015 Poster: Packaging DSpace Ingest Folders with FileAnalyzer
 - [Promotional Slide](https://docs.google.com/presentation/d/1X3P1QOPJhjbRJa0BCKT7KWBRbJaolo-ZQcr9Ez_ENoU/pub)
 - [FileAnalyzer - Assembling DSpace Ingest Folders](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Create-Ingest-Folders-for-a-Set-of-Files)
 - [Poster Image](https://docs.google.com/drawings/d/1hJbSa-A0vi2bvaPx5rfaq2UPaz-_L1Z3_1mo32FwA5o/pub?w=3840&h=3840)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2015_Packaging_DSpace_Ingest_Folders_with_FileAnalyzer.pptx)
 - [Video - Scanning a File System with the File Analyzer](https://www.youtube.com/watch?v=kVi_k-HdH_4&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=2)
 - [Video - Importing Records with the File Analyzer](https://www.youtube.com/watch?v=1I8n60ZrwHo&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=3)
 
@@ -224,6 +222,7 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 
 #### OpenRepositories 2013
 - [Focus on Your Content, Not on Ingesting Your Content](http://or2013.net/sessions/focus-your-content-not-ingesting-your-content/)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/OR2013_Focus_on_Your_Content.pptx)
 
 #### OASIS Symposium 2006
 - [A Use-Case Driven Approach to the Development of Reusable Stylesheet Modules](https://www.oasis-open.org/events/symposium/2006/slides/Brady.ppt)
