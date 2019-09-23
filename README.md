@@ -114,58 +114,68 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
   - [Tutorial: Generating IIIF Manifests with FileAnalyzer](http://georgetown-university-libraries.github.io/File-Analyzer-Test-Data/iiif/)
 
 ### Academic Preservation Trust Bagging Webinar, Sep 2017
-* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vRlSwcWwusCIro4shrj11yfyVttCvOkYBAMtCBHBF9ujIdRR-Xa0Um3GGRkvil8ubwjzpVbfWbSXdMT/pub?start=false&loop=false&delayms=3000)
+- [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vRlSwcWwusCIro4shrj11yfyVttCvOkYBAMtCBHBF9ujIdRR-Xa0Um3GGRkvil8ubwjzpVbfWbSXdMT/pub?start=false&loop=false&delayms=3000)
 
 ### Seattle Java User's Group Meetup, Sep 2017
 
 #### Prototyping with the International Image Interoperability Framework (IIIF)
-* [Online Slides](https://gitpitch.com/terrywbrady/iiif-seaJug)
-* Meetup Details: https://www.meetup.com/seajug/events/243151373/
-* [Presentation Video](https://vimeo.com/235471110)
+- [Online Slides](https://gitpitch.com/terrywbrady/iiif-seaJug)
+  - [Exported Slides](https://github.com/terrywbrady/iiif-seaJug/raw/master/PITCHME.pptx)
+- Meetup Details: https://www.meetup.com/seajug/events/243151373/
+- [Presentation Video](https://vimeo.com/235471110)
 
 ### DSpace North American User Meeting, Georgetown University, Aug 2017
-* Conference Organizer, Host
-  * [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
-* Presenter
-  * [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
-  * [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF)
-  * [Building Customized Collections in DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
+- Conference Organizer, Host
+  - [Meeting Links and Notes](https://github.com/terrywbrady/dspaceUserMeeting/blob/master/README.md)
+    - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/PITCHME.pptx)
+- Presenter
+  - [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
+    - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/contributingToDSpace/PITCHME.pptx)
+  - [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF)
+    - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/dspaceIIIF/PITCHME.pptx)
+  - [Building Customized Collections in DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
+    - [Exported Slides](https://github.com/terrywbrady/dspaceUserMeeting/raw/master/customizedCollections/PITCHME.pptx)
 
 ### National Digital Stewardship Enrichment Session at Georgetown University
-* [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vSyz4WwvuD2FaYCLYUsbGYR5HqY6IOonzuCEAB92SMsNtzTHR1KgX9DpKEH5-qh7wd5CsRzqonafI6p/pub?start=false&loop=false&delayms=3000)
-* [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
+- [APTrust Processing at Georgetown](https://docs.google.com/presentation/d/e/2PACX-1vSyz4WwvuD2FaYCLYUsbGYR5HqY6IOonzuCEAB92SMsNtzTHR1KgX9DpKEH5-qh7wd5CsRzqonafI6p/pub?start=false&loop=false&delayms=3000)
+- [Event Page](https://www.library.georgetown.edu/event/2017-08-09t000000/making-it-work-together-integration-and-automation-digital-curation)
 
 ### Seattle University Web Developers Meetup, Jul 2017
 
 #### Introduction to Google Apps Script
-* [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
-* Meetup Details: https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/
+- [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/seattleu?grs=github&t=white)
+  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/seattleu/PITCHME.pptx)
+- Meetup Details: https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/239490761/
 
 ### Code4Lib 2017
 
 #### Developing Library Applications in Google Sheets with Google Apps Script
 
-* [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/Code4Lib?grs=github&t=white)
-* [Workshop Details](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
+- [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/Code4Lib?grs=github&t=white)
+  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/Code4Lib/PITCHME.pptx)
+- [Workshop Details](http://2017.code4lib.org/workshops/Developing-Library-Applications-in-Google-Sheets-with-Google-Apps-Script)
 
 
 ### SeattleJS Jan 2017 Meetup
 
 #### Building Simple Applications With Google Apps Script
-* [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
-* [SeattleJS Jan 2017 Meetup Event](https://www.meetup.com/seattlejs/events/231089467/)
+- [Online Slides](https://gitpitch.com/terrywbrady/UsingAppScript/SeattleJs?grs=github&t=white)
+  - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/seattlejs/PITCHME.pptx)
+- [SeattleJS Jan 2017 Meetup Event](https://www.meetup.com/seattlejs/events/231089467/)
 
 ### Code4Lib BC 2016
 
 #### Building Quick and Dirty Library Tools with Google Apps Script
-* [Tutorial Slides](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
-* [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRTF6lFyXhN6lfL-0Y_o8fJRf4BLCKSizjvX1jTVGaKdt65no4XUy9MippKhJuVrPs802KBJXrgSxuB/pub?start=false&loop=false&delayms=3000)
-* [Conference Site](https://wiki.code4lib.org/BC)
+- [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRTF6lFyXhN6lfL-0Y_o8fJRf4BLCKSizjvX1jTVGaKdt65no4XUy9MippKhJuVrPs802KBJXrgSxuB/pub?start=false&loop=false&delayms=3000)
+  - [Tutorial Slides](https://gitpitch.com/terrywbrady/UsingAppScript/master?grs=github&t=white)
+    - [Exported Slides](https://github.com/terrywbrady/UsingAppScript/raw/master/PITCHME.pptx)
+- [Conference Site](https://wiki.code4lib.org/BC)
 
 #### A Single Page Web App to Inventory 900,000 Books!
-* [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
-* https://github.com/Georgetown-University-Libraries/BarcodeInventory
-* [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
+- [Online Slides](https://gitpitch.com/Georgetown-University-Libraries/BarcodeInventory/master?grs=github&t=white)
+  - [Exported Slides](https://github.com/Georgetown-University-Libraries/BarcodeInventory/raw/master/PITCHME.pptx)
+- https://github.com/Georgetown-University-Libraries/BarcodeInventory
+- [Google Slides - Deprecated](https://docs.google.com/presentation/d/e/2PACX-1vRSBR2wWnQj4D2MJ9qGH3MHtdDJhV8PrfOZfhYXN0qhtng1Obtlu7DKZISH4AljRDSwoznnZNqqgC1Z/pub?start=false&loop=false&delayms=3000)
 
 ### Seattle Java User's Group - November 2015
 - [DSpace: An Open Source Repository for Academic Libraries and Other Institutions](https://docs.google.com/presentation/d/1tr1e2hWnTE5UE-Muh4lDTU58QG2f3VathcCpHoyPtYQ/pub?start=false&loop=false&delayms=3000)
@@ -174,44 +184,38 @@ Terry Brady, Applications Programmer Analyst, [Georgetown University Library](ht
 ### OpenRepositories 2015
 
 #### OR2015: Driving Change with Interactive Admin Tools for DSpace
-* [Slides](https://docs.google.com/presentation/d/1VXMlFnhFNx_5E8Jj_3trak2pWffO4KJbb-Q7A6J-THk/pub?start=false&loop=false&delayms=3000)
-* [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
-* [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
-* [Pull Request for REST-based Reporting](https://github.com/DSpace/DSpace/pull/954)
-* [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
+- [Slides](https://docs.google.com/presentation/d/1VXMlFnhFNx_5E8Jj_3trak2pWffO4KJbb-Q7A6J-THk/pub?start=false&loop=false&delayms=3000)
+- [Reporting Tools - PHP](http://georgetown-university-libraries.github.io/batch-tools/)
+- [Reporting Tools - REST API](https://github.com/Georgetown-University-Libraries/DSpaceRestQCReports)
+- [Pull Request for REST-based Reporting](https://github.com/DSpace/DSpace/pull/954)
+- [Video - DSpace Reporting Tools built on the REST API](https://www.youtube.com/watch?v=1Lxzqpq_3x4&index=1&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
 
 #### OR2015: Integrating the Institutional Repository with the Learning Management System
-* [Slides](https://docs.google.com/presentation/d/1N_1PZNwNvNlFd5BSciSXtgRoCzYouD9labdKBJ11wCE/pub?start=false&loop=false&delayms=3000)
-* [DigitalGeorgetown](https://repository.library.georgetown.edu)
+- [Slides](https://docs.google.com/presentation/d/1N_1PZNwNvNlFd5BSciSXtgRoCzYouD9labdKBJ11wCE/pub?start=false&loop=false&delayms=3000)
+- [DigitalGeorgetown](https://repository.library.georgetown.edu)
 
 #### OR2015: A Page-Turning Document Viewer for DSpace using FlexPaper
-* [Slides](https://docs.google.com/presentation/d/1-sANqCmadC0xAQPMaLmVTYKqIflCc4TjKlEFMsuUEQc/pub?start=false&loop=false&delayms=3000)
-* [FlexPaper Website](http://flexpaper.devaldi.com/)
-* [FlexPaper Viewer for DSpace](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
-* [DigitalGeorgetown - Dynamic Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559305)
-* [DigitalGeorgetown - Pre-compiled Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559458)
-* [DigitalGeorgetown - Flash Viewer for Mixed Page Orientation Document](https://repository.library.georgetown.edu/handle/10822/557062)
-* [DigitalGeorgetown - Book Viewer Disabled Due to Inconsistent Page Sizes](https://repository.library.georgetown.edu/handle/10822/556074)
+- [Slides](https://docs.google.com/presentation/d/1-sANqCmadC0xAQPMaLmVTYKqIflCc4TjKlEFMsuUEQc/pub?start=false&loop=false&delayms=3000)
+- [FlexPaper Website](http://flexpaper.devaldi.com/)
+- [FlexPaper Viewer for DSpace](https://wiki.duraspace.org/display/DSPACE/FlexPaper+Document+Viewer+for+XMLUI)
+- [DigitalGeorgetown - Dynamic Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559305)
+- [DigitalGeorgetown - Pre-compiled Book Viewer Example](https://repository.library.georgetown.edu/handle/10822/559458)
+- [DigitalGeorgetown - Flash Viewer for Mixed Page Orientation Document](https://repository.library.georgetown.edu/handle/10822/557062)
+- [DigitalGeorgetown - Book Viewer Disabled Due to Inconsistent Page Sizes](https://repository.library.georgetown.edu/handle/10822/556074)
 
 #### OR2015 Poster: Packaging DSpace Ingest Folders with FileAnalyzer
-* [Promotional Slide](https://docs.google.com/presentation/d/1X3P1QOPJhjbRJa0BCKT7KWBRbJaolo-ZQcr9Ez_ENoU/pub)
-* [FileAnalyzer - Assembling DSpace Ingest Folders](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Create-Ingest-Folders-for-a-Set-of-Files)
-* [Poster Image](https://docs.google.com/drawings/d/1hJbSa-A0vi2bvaPx5rfaq2UPaz-_L1Z3_1mo32FwA5o/pub?w=3840&h=3840)
-* [Video - Scanning a File System with the File Analyzer](https://www.youtube.com/watch?v=kVi_k-HdH_4&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=2)
-* [Video - Importing Records with the File Analyzer](https://www.youtube.com/watch?v=1I8n60ZrwHo&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=3)
-
-### Georgetown University Library Information Technology
-
-* https://github.com/Georgetown-University-Libraries
-* [Code Gallery](http://www.library.georgetown.edu/lit/code)
-* [DigitalGeorgetown](https://repository.library.georgetown.edu)
-* [Library Information Technology Videos](https://www.youtube.com/playlist?list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP)
+- [Promotional Slide](https://docs.google.com/presentation/d/1X3P1QOPJhjbRJa0BCKT7KWBRbJaolo-ZQcr9Ez_ENoU/pub)
+- [FileAnalyzer - Assembling DSpace Ingest Folders](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Create-Ingest-Folders-for-a-Set-of-Files)
+- [Poster Image](https://docs.google.com/drawings/d/1hJbSa-A0vi2bvaPx5rfaq2UPaz-_L1Z3_1mo32FwA5o/pub?w=3840&h=3840)
+- [Video - Scanning a File System with the File Analyzer](https://www.youtube.com/watch?v=kVi_k-HdH_4&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=2)
+- [Video - Importing Records with the File Analyzer](https://www.youtube.com/watch?v=1I8n60ZrwHo&list=PLqP8OmiY4pxGIlEdnpkeJcA4JQ9VomDLP&index=3)
 
 ### Past Conferences
 
 #### Code4Lib 2015
-* [Got Git? Getting More Out of Your GitHub Repositories](http://code4lib.org/conference/2015/brady)
-* [Pre-Conference Workshop: Coding Custom Solutions for Every Department in the Library with File Analyzer](http://wiki.code4lib.org/2015_Preconference_Proposals#Coding_Custom_Solutions_for_Every_Department_in_the_Library_with_File_Analyzer)
+- [Got Git? Getting More Out of Your GitHub Repositories](http://code4lib.org/conference/2015/brady)
+  - [Exported Slides](https://github.com/terrywbrady/info/raw/master/resources/Code4Lib2015GotGit.pptx)
+- [Pre-Conference Workshop: Coding Custom Solutions for Every Department in the Library with File Analyzer](http://wiki.code4lib.org/2015_Preconference_Proposals#Coding_Custom_Solutions_for_Every_Department_in_the_Library_with_File_Analyzer)
 
 #### Code4Lib 2014
 * [Pre-Conference Workshop: FileAnalyzer: Rapid Development of File Manipulation Tasks](http://wiki.code4lib.org/2014_preconference_proposals#FileAnalyzer:_Rapid_Development_of_File_Manipulation_Tasks)
