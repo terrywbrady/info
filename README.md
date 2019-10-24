@@ -1,4 +1,5 @@
-Terry Brady, Applications Programmer Analyst, [Georgetown University Library](http://library.georgetown.edu)
+Terry Brady, Senior Software Developer, [University of California Curation Center (UC3)
+](https://cdlib.org/services/uc3/), [California Digital Library](https://cdlib.org)
 
 - [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 
