@@ -1,6 +1,7 @@
 Terry Brady, Senior Software Developer, [University of California Curation Center (UC3)
 ](https://cdlib.org/services/uc3/), [California Digital Library](https://cdlib.org)
 
+- Working from Seattle, WA
 - [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 
 # Open Source Projects
