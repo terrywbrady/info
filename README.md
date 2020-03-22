@@ -5,6 +5,9 @@ Terry Brady, Senior Software Developer, [University of California Curation Cente
 - [LinkedIn Profile](https://www.linkedin.com/in/terrywbrady)
 
 # Open Source Projects
+- California Digital Library - University of California Curation Center
+  - [Merritt System](https://merritt.cdlib.org/)
+  - https://github.com/cdluc3
 - Georgetown University Library
   - [Georgetown University Libraries Projects/Open Source Projects](http://georgetown-university-libraries.github.io/)
   - [DSpace](https://github.com/DSpace/DSpace)
