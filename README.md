@@ -1,5 +1,4 @@
-Terry Brady, Senior Software Developer
+[Terry Brady's GitHub Profile and Presentation List](https://github.com/terrywbrady)
+- [Saved folder of online presentations](resources)
 
-[GitHub Profile](https://github.com/terrywbrady)
-
-This repository contains a brief bio and archived versions of past presentations.
+Other folders are a collecion of useful reference links.
