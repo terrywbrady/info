@@ -30,3 +30,12 @@
 
 - https://github.com/CDLUC3/mrt-admin-lambda/blob/main/src-admintool/web/index.html
 - https://github.com/CDLUC3/mrt-admin-lambda/blob/main/src-common/admin_task.rb
+
+### JavaScript allow file system access
+
+- https://github.com/terrywbrady/tinker-public/tree/main/filesys
+
+### JS Viz Library
+
+- https://github.com/terrywbradyC9/family-tree-viz
+

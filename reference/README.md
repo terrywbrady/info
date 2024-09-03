@@ -8,4 +8,4 @@
 ## Frameworks and Tools
 - [Docker](docker.md)
 - [OpenSearch](https://github.com/CDLUC3/opensearch-tutorial/blob/main/README.md)
-- [Sceptre]()
+- [Other](other.md)
