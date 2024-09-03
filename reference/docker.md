@@ -30,3 +30,8 @@
 - [merritt-docker](https://github.com/CDLUC3/merritt-docker)
   - https://github.com/CDLUC3/merritt-docker/blob/main/mrt-services/docker-compose.yml
   - https://github.com/CDLUC3/merritt-docker/blob/main/mrt-inttest-services/README.md
+- [mrt-integ-tests](https://github.com/CDLUC3/mrt-integ-tests) - Includes headless chrome instance
+  - https://github.com/CDLUC3/mrt-integ-tests/blob/main/docker-compose.yml
+- Reveal JS Presentation
+  - [Presentation Service](https://github.com/CDLUC3/mrt-doc/blob/main/design/aws-build/docker-compose.yml)
+  - [Presentation Service Export](https://github.com/CDLUC3/mrt-doc/blob/main/design/aws-build/docker-compose-static.yml)

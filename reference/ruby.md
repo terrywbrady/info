@@ -16,3 +16,7 @@
 ## Articles
 
 ## My useful code repositories
+
+- Capybara End to End tests
+  - https://github.com/cdluc3/mrt-integ-tests
+  - https://github.com/CDLUC3/mrt-dashboard/blob/main/spec/features_helper.rb

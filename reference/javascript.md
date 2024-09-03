@@ -19,3 +19,14 @@
 ## Articles
 
 ## My useful code repositories
+
+### jQuery
+
+### jQuery UI
+
+### Mermaid.js
+
+### Chart.js
+
+- https://github.com/CDLUC3/mrt-admin-lambda/blob/main/src-admintool/web/index.html
+- https://github.com/CDLUC3/mrt-admin-lambda/blob/main/src-common/admin_task.rb
