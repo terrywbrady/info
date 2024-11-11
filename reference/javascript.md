@@ -6,6 +6,8 @@
 
 ## Reference
 
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 ## Online Tools
 - [JS Fiddle](https://jsfiddle.net)
 - [Chart.js Samples](https://www.chartjs.org/docs/latest/samples/information.html)
@@ -39,3 +41,13 @@
 
 - https://github.com/terrywbradyC9/family-tree-viz
 
+## TODO
+
+### Features to explore
+- async / await
+- use let instead of var
+- Use Map/Set rather than object
+- Use ?? operator to provide alternative to undefined/null (better than ||)
+
+### Resouce to explore
+- https://web.dev/learn/pwa
